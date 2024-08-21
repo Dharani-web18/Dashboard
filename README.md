@@ -1,8 +1,6 @@
-DASHBOARD:
+#DASHBOARD
 
 STEPS TO LOCALLY RUN THE APPLICATION :
-
-Step 1 : Ensure it has right directory cd Dashboard (or) change the directory to cd Dashboard in Visual Studio
 
 Step 1: Start the Development Server
 To start your application locally (Run this command in Visual Studio): npm start
